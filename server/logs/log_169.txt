@@ -1,0 +1,4 @@
+Connection Successful - 127.0.0.1
+Client on 127.0.0.1 with ID 0'CbYZ1J4EtP
+Client on 127.0.0.1 with ID 1'7pb0stin9R
+Client 0'CbYZ1J4EtP disconnected...

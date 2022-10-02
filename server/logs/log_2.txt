@@ -1,0 +1,16 @@
+Connection Successful - 
+Client on 94.236.129.243 with ID 0'SSiAwVKPhr
+Client 0'SSiAwVKPhr disconnected...
+Client on 94.236.129.243 with ID 0'uLIygvNsbI
+Client 0'uLIygvNsbI disconnected...
+Client on 94.236.129.243 with ID 0'O343jeuhBM
+Client 0'O343jeuhBM disconnected...
+Client on 94.236.129.243 with ID 0'5WBUPc9XW8
+Client 0'5WBUPc9XW8 disconnected...
+Client on 94.236.129.243 with ID 0'LOuDeRACz7
+Client 0'LOuDeRACz7 disconnected...
+unknown host attempted connection from IP: 209.141.56.212, ban counter: 1
+message: GET login.cgi HTTP/1.1
+
+
+Client on 94.236.129.243 with ID 0'hCdxOQ1xhO

